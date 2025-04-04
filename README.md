@@ -1,6 +1,6 @@
-## Trabajando con redes neuronales y deep learning
+## Aplicación de Redes Neuronales en Problemas de Regresión
 
-En este análisis, se exploraron problemas de regresión utilizando redes neuronales como método principal, complementado con modelos tradicionales para comparación. Se abordaron aspectos clave como preprocesamiento, análisis exploratorio, ajuste de modelos, evaluación y análisis de resultados.
+En este proyecto, se exploraron problemas de regresión utilizando redes neuronales como método principal, complementado con modelos tradicionales para comparación. Se abordaron aspectos clave como preprocesamiento, análisis exploratorio, ajuste de modelos, evaluación y análisis de resultados.
 
 Se empleó el conjunto de datos sobre ventas de viviendas del condado de King, disponible en Kaggle. Este dataset contiene información sobre viviendas vendidas, incluyendo características como el número de dormitorios, baños, metros cuadrados de espacio habitable, tamaño del lote, número de pisos, condición general de la vivienda, calificación de la vivienda basada en el sistema de calificación del condado de King, superficie habitable por encima del nivel del suelo, superficie del sótano, así como las coordenadas geográficas (latitud y longitud) y el precio de venta. 
 
